@@ -1,0 +1,106 @@
+.logo_first{
+    padding-left: 20px;
+}
+.lephai li{
+    padding: 0px 50px 0 0;
+    margin-top: 20px;
+    display: inline;
+    font-family: Arial;
+    float: left;
+}
+.lephai h4{
+    color: tomato;
+    font-weight: bold;
+}
+.lephai h4:hover{
+    color: turquoise;
+}
+.text-center h1{
+    padding-bottom: 10px;
+    padding-top: 60px;
+}
+.bg_pic1{
+    background-image: url('images/pizza1.jpg');
+    border-radius: 25px; /* make rounded corners */
+    width: 90%;
+    height: 110%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;
+    box-sizing: border-box;
+}
+.bg_pic2{
+    background-image: url('images/burger1.jpg');
+    border-radius: 25px; /* make rounded corners */ 
+    width: 90%;
+    height: 110%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 5%;
+}
+.bg_pic3{
+    background-image: url('images/momo1.jpg');
+    border-radius: 25px; /* make rounded corners */ 
+    width: 90%;
+    height: 110%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    box-sizing: border-box;
+}
+.text-center h2{
+    font-family: Arial;
+    color: white;
+    padding-top: 110%;
+    font-weight: bold;
+}
+.text-center h2:hover{
+    color: turquoise;
+}
+.margin_bot{
+    margin-bottom: 70px;
+}
+.bg_pic4{
+    margin-left: 40px;
+    float: left;
+    box-sizing: border-box;
+}
+.bg_pic4 img{
+    width: 100%;
+    margin-bottom: 120px;
+}
+.logo_bot { 
+    float: left; 
+    width: 100%;
+    margin-top: 20px;
+}
+.logo_bot img{
+    width: 3%;
+    height: auto;
+}
+.first {
+    padding-right: 25px;
+}
+.third{
+    padding-left: 25px;
+}
+.logo_bot nav a{
+    text-decoration: none;
+}
+.end { 
+    box-sizing: border-box; /* ensure padding and borders do not increase the size */ 
+    float: left; 
+    width: 100%; 
+    padding-top: 25px;
+    padding-bottom: 25px; 
+    margin: 0; 
+}
+.end p{
+    font-family: Arial;
+}
+.end a{
+    text-decoration: none;
+    color: palevioletred;
+}

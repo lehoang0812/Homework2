@@ -1,0 +1,50 @@
+.line_top{
+    border-bottom: 1px solid;
+}
+.nav-home a{
+    color: red;
+}
+.green{
+    background-color: lightgreen ;
+    font-weight: bold;
+    width: min-content;
+}
+.dashb{
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.footer-text{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.para1{
+    font-size: 15px;
+    font-weight: none;
+}
+.mn_food{
+    margin-top: 50px;
+}
+.margin_bot{
+    margin-bottom: 30px;
+}
+#mn_food_img{
+    width: 100px;
+}
+.mn_up{
+    background-color: lightgreen;
+    width: fit-content;
+    font-weight: bold;
+    border: none;
+}
+.mn_del{
+    margin-left: 5px;
+    background-color: palevioletred;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+.bt_ad{
+    border: none;
+    margin-right: 5px;
+}
